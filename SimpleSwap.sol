@@ -408,8 +408,8 @@ contract SimpleSwap is ERC20, Ownable {
         uint amountIn,
         uint reserveIn,
         uint reserveOut
-    ) external view returns (uint amountOut) {
-        // Call internal function to get amount out
+    ) external pure returns (uint amountOut) {
+
         amountOut = _getAmountOut(amountIn, reserveIn, reserveOut);
     }
 
