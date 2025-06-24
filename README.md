@@ -88,9 +88,9 @@ Calculates the current price between two tokens.
 
 | Contract | Address |
 |----------|-----------|
-| SimpleSwap | `[TO BE COMPLETED]` |
-| TokenA | `[TO BE COMPLETED]` |
-| TokenB | `[TO BE COMPLETED]` |
+| SimpleSwap | `0x48DaB4616698d9FE5A3A465F97b5E3c1C6d4bCda` |
+| TokenA | `0x03b104c673D55b5DdA4eC698991A2D5A7D444033` |
+| TokenB | `0xDEc57cc08821B8BeA347C83F4A624BBdAE1536FE` |
 
 ---
 *Developed as part of ETH KIPU Module 3*
